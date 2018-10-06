@@ -8,6 +8,10 @@
 
 incl build instructions, introduction etc
 
+### Open Knowledge Stuttgart
+
+[official Luftdaten API page … ](https://github.com/opendata-stuttgart/meta/wiki/APIs)
+
 ### Madavi
 
 [madavi data](http://www.madavi.de/sensor/graph.php)
@@ -16,11 +20,15 @@ incl build instructions, introduction etc
 
 ### Rexfue
 
-[rexfue] (https://www.rexfue.de/)
+[rexfue](https://www.rexfue.de/)
  (has a Link to the API)
 
-https://feinstaub.rexfue.de/ map
+[rexfue map](https://feinstaub.rexfue.de/)
 
 (https://feinstaub.rexfue.de/16545)
 
 (https://feinstaub.rexfue.de/16546)
+
+### TU Berlin
+
+[alternative API / Information Systems Engineering Lab at TU Berlin](https://www.opensense.network/beta/apidocs/)
