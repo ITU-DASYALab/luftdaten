@@ -16,9 +16,9 @@ incl build instructions, introduction etc
 
 [madavi data](http://www.madavi.de/sensor/graph.php)
 
-[lufdaten map] (http://denmark.maps.luftdaten.info/#10/55.6987/12.6542)
+[luftdaten map](http://denmark.maps.luftdaten.info/#10/55.6987/12.6542)
 
-[madavi csv download] (https://www.madavi.de/sensor/csvfiles.php?sensor=esp8266-2344657)
+[madavi csv download](https://www.madavi.de/sensor/csvfiles.php?sensor=esp8266-2344657)
 
 ### Rexfue
 
