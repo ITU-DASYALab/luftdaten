@@ -4,4 +4,4 @@
 
 
 
-[Luftdaten main](https://luftdaten.info "Luftdaten website")
+[Luftdaten main](https://luftdaten.info)
